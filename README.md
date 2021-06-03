@@ -1,7 +1,5 @@
-# nodejs-api
+# Express MongoDB NodeJS with some jQuery
 
-live https://madbence-nodeapi.herokuapp.com/
+First try of MongoDB with Express from around early 2017.
 
-run mongodb locally or use any alternatives like mlab
-
-npm start
+![landing.png](landing.png)
